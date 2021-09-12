@@ -1,4 +1,4 @@
-# EZRental Extended Practice Project
+# Auto Rental Windows Application Extended Practice Project
 
 As part of my continuous improvement as a full-stack developer, I am extending a college project I did last year using .NET and C#, and Microsoft SQL. My professor, Mr. Rodriguez, asked us to create a simulated car rental application (EZRental Point-of-Sales Management System). Due to time-constraint, it was only focused on the credit card management feature. As the project manager, he provided all the business requirements of the application, database EER and normalized logical models, code to implement the back end for the credit card feature, and guidance towards the feature's development. We used a combination of waterfall and agile methodologies to accomplish this backlog of the 4-tier project.
 
