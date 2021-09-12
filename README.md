@@ -9,3 +9,6 @@ New changes I have made outside of that course include the implementation of the
 ## Authors
 - [Anderson Uribe Rodriguez](https://andersonuribe.com)
 - [Abel Angel Rodriguez](https://www.linkedin.com/in/arodriguez1212/)
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
